@@ -1,2 +1,3 @@
 # test_github
-open test
+
+new github read me
