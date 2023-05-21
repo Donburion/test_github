@@ -1,4 +1,6 @@
 import tkinter as tk
+import pandas as pd
+
 def terminate_this(root):
     root.destroy()
 
